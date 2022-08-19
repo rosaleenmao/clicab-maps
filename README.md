@@ -22,5 +22,5 @@ This project generates 5 maps.
 
 The first maps every power plant in the United States, as reported by the Energy Information Administration.
 
-    ![US map with all power plants plotted](img/Figure_1.png)
+![US map with all power plants plotted](img/Figure_1.png)
 
