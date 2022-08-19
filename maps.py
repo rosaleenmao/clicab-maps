@@ -118,7 +118,7 @@ old_generator_plants.plot(ax=ax4, color='#440154', alpha = 0.5)
 
 # plot interactive map
 US_map.plot(ax=ax5, color='#ffffff', edgecolor='#6a6a6a')
-old_generator_plants.plot(ax=ax5, column='old_generator_bucket', markersize=old_generator_plants['norm_plant_size'], cmap='viridis', alpha=0.5)
+old_generator_plants.plot(ax=ax5, column='old_generator_bucket', markersize=old_generator_plants['norm_plant_size'], cmap='viridis', alpha=0.5, legend=True)
 
 # generate plot
 plt.show()
