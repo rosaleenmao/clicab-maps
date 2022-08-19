@@ -1,0 +1,11 @@
+# Mac artifacts
+.DS_Store
+
+# credentials
+credentials.py
+
+# my personal virtual environment
+menv/
+
+# optimization files
+__pycache__/
